@@ -20,4 +20,8 @@ O/1 - LIGA COMPRESSOR
 O/2 - LIGA VENTILADOR
 O/3 - LED ALARME
 
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="Resfriador de oleo.png">
+
 
