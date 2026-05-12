@@ -26,4 +26,14 @@ O/3 - LED ALARME
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="600" alt="coding-time" src="Resfriador de oleo - LIGA BOMBA.png">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="Resfriador de oleo - LIGA COMPRESSOR.png">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="Resfriador de oleo - LIGA VENT.png">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="Resfriador de oleo - EMERGENCIA.png">
+
 
